@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="markmap mm-5v2297-2" style="width: 100%; height: 100%;"><style>.markmap{--markmap-max-width: 9999px;--markmap-a-color: #0097e6;--markmap-a-hover-color: #00a8ff;--markmap-code-bg: #f0f0f0;--markmap-code-color: #555;--markmap-highlight-bg: #ffeaa7;--markmap-table-border: 1px solid currentColor;--markmap-font: 300 16px/20px sans-serif;--markmap-circle-open-bg: #fff;--markmap-text-color: #333;--markmap-highlight-node-bg: #ff02;font:var(--markmap-font);color:var(--markmap-text-color)}.markmap-link{fill:none}.markmap-node&gt;circle{cursor:pointer}.markmap-foreign{display:inline-block}.markmap-foreign p{margin:0}.markmap-foreign a{color:var(--markmap-a-color)}.markmap-foreign a:hover{color:var(--markmap-a-hover-color)}.markmap-foreign code{padding:.25em;font-size:calc(1em - 2px);color:var(--markmap-code-color);background-color:var(--markmap-code-bg);border-radius:2px}.markmap-foreign pre{margin:0}.markmap-foreign pre&gt;code{display:block}.markmap-foreign del{text-decoration:line-through}.markmap-foreign em{font-style:italic}.markmap-foreign strong{font-weight:700}.markmap-foreign mark{background:var(--markmap-highlight-bg)}.markmap-foreign table,.markmap-foreign th,.markmap-foreign td{border-collapse:collapse;border:var(--markmap-table-border)}.markmap-foreign img{display:inline-block}.markmap-foreign svg{fill:currentColor}.markmap-foreign&gt;div{width:var(--markmap-max-width);text-align:left}.markmap-foreign&gt;div&gt;div{display:inline-block}.markmap-highlight rect{fill:var(--markmap-highlight-node-bg)}.markmap-dark .markmap{--markmap-code-bg: #1a1b26;--markmap-code-color: #ddd;--markmap-circle-open-bg: #444;--markmap-text-color: #eee}</style><g transform="translate(20,307.285472972973) scale(0.5135135135135135)"><path class="markmap-link" data-depth="3" data-path="1.2.3" d="M644,-444.281C684,-444.281,684,-485.031,724,-485.031" stroke-width="1.375" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="3" data-path="1.2.4" d="M644,-444.281C684,-444.281,684,-457.656,724,-457.656" stroke-width="1.375" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="3" data-path="1.2.5" d="M644,-444.281C684,-444.281,684,-430.281,724,-430.281" stroke-width="1.375" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="3" data-path="1.2.6" d="M644,-444.281C684,-444.281,684,-402.906,724,-402.906" stroke-width="1.375" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="3" data-path="1.7.8" d="M718,-297.844C758,-297.844,758,-224.531,798,-224.531" stroke-width="1.375" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="4" data-path="1.9.10.11" d="M883,-166.969C923,-166.969,923,-193.25,963,-193.25" stroke-width="1.1875" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="4" data-path="1.9.10.12" d="M883,-166.969C923,-166.969,923,-167.062,963,-167.062" stroke-width="1.1875" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="4" data-path="1.9.10.13" d="M883,-166.969C923,-166.969,923,-140.875,963,-140.875" stroke-width="1.1875" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="4" data-path="1.9.14.15" d="M1022,-56.594C1062,-56.594,1062,-3.687,1102,-3.687" stroke-width="1.1875" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="4" data-path="1.9.16.17" d="M864,53.781C904,53.781,904,27.5,944,27.5" stroke-width="1.1875" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="4" data-path="1.9.16.18" d="M864,53.781C904,53.781,904,53.688,944,53.688" stroke-width="1.1875" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="4" data-path="1.9.16.19" d="M864,53.781C904,53.781,904,79.875,944,79.875" stroke-width="1.1875" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="3" data-path="1.9.10" d="M631,-56.406C671,-56.406,671,-166.969,711,-166.969" stroke-width="1.375" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="3" data-path="1.9.14" d="M631,-56.406C671,-56.406,671,-56.594,711,-56.594" stroke-width="1.375" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="3" data-path="1.9.16" d="M631,-56.406C671,-56.406,671,53.781,711,53.781" stroke-width="1.375" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="3" data-path="1.20.21" d="M720,164.344C760,164.344,760,217.156,800,217.156" stroke-width="1.375" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="3" data-path="1.23.24" d="M590,335.094C630,335.094,630,288.531,670,288.531" stroke-width="1.375" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="3" data-path="1.23.25" d="M590,335.094C630,335.094,630,354.906,670,354.906" stroke-width="1.375" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="3" data-path="1.23.26" d="M590,335.094C630,335.094,630,421.281,670,421.281" stroke-width="1.375" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="3" data-path="1.27.28" d="M593,466.031C633,466.031,633,452.656,673,452.656" stroke-width="1.375" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="3" data-path="1.27.29" d="M593,466.031C633,466.031,633,479.031,673,479.031" stroke-width="1.375" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="2" data-path="1.2" d="M389,11.25C429,11.25,429,-444.281,469,-444.281" stroke-width="1.75" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="2" data-path="1.7" d="M389,11.25C429,11.25,429,-297.844,469,-297.844" stroke-width="1.75" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="2" data-path="1.9" d="M389,11.25C429,11.25,429,-56.406,469,-56.406" stroke-width="1.75" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="2" data-path="1.20" d="M389,11.25C429,11.25,429,164.344,469,164.344" stroke-width="1.75" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="2" data-path="1.22" d="M389,11.25C429,11.25,429,249.719,469,249.719" stroke-width="1.75" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="2" data-path="1.23" d="M389,11.25C429,11.25,429,335.094,469,335.094" stroke-width="1.75" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="2" data-path="1.27" d="M389,11.25C429,11.25,429,466.031,469,466.031" stroke-width="1.75" stroke="rgb(227, 119, 194)"/><g class="markmap-highlight"/><g data-depth="3" data-path="1.2.3" class="markmap-node" transform="translate(724, -506.71875)"><line stroke="#2ca02c" stroke-width="1.375" x1="-1" x2="306" y1="21.6875" y2="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="288" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 -3 24 24"><path d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2m-9 14-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8z"/></svg> Understand why the OSI model exists</div></div></foreignObject></g><g data-depth="3" data-path="1.2.4" class="markmap-node" transform="translate(724, -479.34375)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="221" y1="21.6875" y2="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="203" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 -3 24 24"><path d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2m-9 14-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8z"/></svg> Name all 7 layers in order</div></div></foreignObject></g><g data-depth="3" data-path="1.2.5" class="markmap-node" transform="translate(724, -451.96875)"><line stroke="#9467bd" stroke-width="1.375" x1="-1" x2="262" y1="21.6875" y2="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="244" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 -3 24 24"><path d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2m-9 14-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8z"/></svg> Know the function of each layer</div></div></foreignObject></g><g data-depth="3" data-path="1.2.6" class="markmap-node" transform="translate(724, -424.59375)"><line stroke="#8c564b" stroke-width="1.375" x1="-1" x2="325" y1="21.6875" y2="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="307" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 -3 24 24"><path d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2m-9 14-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8z"/></svg> Map real protocols/devices to each layer</div></div></foreignObject></g><g data-depth="2" data-path="1.2" class="markmap-node" transform="translate(469, -465.15625)"><line stroke="#ff7f0e" stroke-width="1.75" x1="-1" x2="177" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="175" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="159" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">🎯 Today's Objectives</div></div></foreignObject></g><g data-depth="3" data-path="1.7.8" class="markmap-node" transform="translate(798, -392.21875)"><line stroke="#7f7f7f" stroke-width="1.375" x1="-1" x2="614" y1="167.6875" y2="167.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="596" height="167"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="16,25">
+<thead data-lines="16,17">
+<tr data-lines="16,17">
+<th style="text-align:center">Layer</th>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">Mnemonic</th>
+<th style="text-align:left">Key Function</th>
+<th style="text-align:left">Examples</th>
+</tr>
+</thead>
+<tbody data-lines="18,25">
+<tr data-lines="18,19">
+<td style="text-align:center">7</td>
+<td style="text-align:left"><strong>Application</strong></td>
+<td style="text-align:left"><strong>A</strong>ll</td>
+<td style="text-align:left">User interface &amp; apps</td>
+<td style="text-align:left">HTTP, FTP, SMTP, DNS</td>
+</tr>
+<tr data-lines="19,20">
+<td style="text-align:center">6</td>
+<td style="text-align:left"><strong>Presentation</strong></td>
+<td style="text-align:left"><strong>P</strong>retty</td>
+<td style="text-align:left">Data formatting &amp; encryption</td>
+<td style="text-align:left">SSL/TLS, JPEG, ASCII</td>
+</tr>
+<tr data-lines="20,21">
+<td style="text-align:center">5</td>
+<td style="text-align:left"><strong>Session</strong></td>
+<td style="text-align:left"><strong>S</strong>eashells</td>
+<td style="text-align:left">Session management</td>
+<td style="text-align:left">NetBIOS, RPC, PPTP</td>
+</tr>
+<tr data-lines="21,22">
+<td style="text-align:center">4</td>
+<td style="text-align:left"><strong>Transport</strong></td>
+<td style="text-align:left"><strong>T</strong>aste</td>
+<td style="text-align:left">End-to-end delivery</td>
+<td style="text-align:left">TCP, UDP, Port numbers</td>
+</tr>
+<tr data-lines="22,23">
+<td style="text-align:center">3</td>
+<td style="text-align:left"><strong>Network</strong></td>
+<td style="text-align:left"><strong>N</strong>ice</td>
+<td style="text-align:left">Logical addressing &amp; routing</td>
+<td style="text-align:left">IP, ICMP, Routers</td>
+</tr>
+<tr data-lines="23,24">
+<td style="text-align:center">2</td>
+<td style="text-align:left"><strong>Data Link</strong></td>
+<td style="text-align:left"><strong>D</strong>o</td>
+<td style="text-align:left">Physical addressing (MAC)</td>
+<td style="text-align:left">Ethernet, Switches, MAC</td>
+</tr>
+<tr data-lines="24,25">
+<td style="text-align:center">1</td>
+<td style="text-align:left"><strong>Physical</strong></td>
+<td style="text-align:left"><strong>P</strong>lease</td>
+<td style="text-align:left">Bits on the wire</td>
+<td style="text-align:left">Cables, Hubs, NICs</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.7" class="markmap-node" transform="translate(469, -318.71875)"><line stroke="#e377c2" stroke-width="1.75" x1="-1" x2="251" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#e377c2" fill="var(--markmap-circle-open-bg)" cx="249" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="233" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">🏗️ The 7 Layers (Top to Bottom)</div></div></foreignObject></g><g data-depth="4" data-path="1.9.10.11" class="markmap-node" transform="translate(963, -213.84375)"><line stroke="#1f77b4" stroke-width="1.1875" x1="-1" x2="187" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="169" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Closest to the <strong>end user</strong></div></div></foreignObject></g><g data-depth="4" data-path="1.9.10.12" class="markmap-node" transform="translate(963, -187.65625)"><line stroke="#ff7f0e" stroke-width="1.1875" x1="-1" x2="501" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="483" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">NOT the application itself (like Chrome), but the <strong>protocols</strong> apps use</div></div></foreignObject></g><g data-depth="4" data-path="1.9.10.13" class="markmap-node" transform="translate(963, -161.46875)"><line stroke="#2ca02c" stroke-width="1.1875" x1="-1" x2="303" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="285" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Think: <em>"What does the user want to do?"</em></div></div></foreignObject></g><g data-depth="3" data-path="1.9.10" class="markmap-node" transform="translate(711, -187.65625)"><line stroke="#17becf" stroke-width="1.375" x1="-1" x2="174" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#17becf" fill="var(--markmap-circle-open-bg)" cx="172" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="156" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Layer 7 — Application</div></div></foreignObject></g><g data-depth="4" data-path="1.9.14.15" class="markmap-node" transform="translate(1102, -130.28125)"><line stroke="#9467bd" stroke-width="1.1875" x1="-1" x2="380" y1="126.59375" y2="126.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="362" height="126"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="39,46">
+<thead data-lines="39,40">
+<tr data-lines="39,40">
+<th style="text-align:left">TCP</th>
+<th style="text-align:left">UDP</th>
+</tr>
+</thead>
+<tbody data-lines="41,46">
+<tr data-lines="41,42">
+<td style="text-align:left">Connection-oriented</td>
+<td style="text-align:left">Connectionless</td>
+</tr>
+<tr data-lines="42,43">
+<td style="text-align:left">Reliable (acknowledgments)</td>
+<td style="text-align:left">"Fire and forget"</td>
+</tr>
+<tr data-lines="43,44">
+<td style="text-align:left">Slower (overhead)</td>
+<td style="text-align:left">Faster</td>
+</tr>
+<tr data-lines="44,45">
+<td style="text-align:left">Uses 3-way handshake</td>
+<td style="text-align:left">No handshake</td>
+</tr>
+<tr data-lines="45,46">
+<td style="text-align:left">Web browsing, email, FTP</td>
+<td style="text-align:left">Streaming, DNS, VoIP</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.9.14" class="markmap-node" transform="translate(711, -77.28125)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="313" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#d62728" fill="var(--markmap-circle-open-bg)" cx="311" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="295" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Layer 4 — Transport (⭐ Exam Favorite!)</div></div></foreignObject></g><g data-depth="4" data-path="1.9.16.17" class="markmap-node" transform="translate(944, 6.90625)"><line stroke="#e377c2" stroke-width="1.1875" x1="-1" x2="288" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="270" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>IP addressing</strong> lives here (IPv4 / IPv6)</div></div></foreignObject></g><g data-depth="4" data-path="1.9.16.18" class="markmap-node" transform="translate(944, 33.09375)"><line stroke="#7f7f7f" stroke-width="1.1875" x1="-1" x2="223" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="205" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Routers</strong> operate at this layer</div></div></foreignObject></g><g data-depth="4" data-path="1.9.16.19" class="markmap-node" transform="translate(944, 59.28125)"><line stroke="#bcbd22" stroke-width="1.1875" x1="-1" x2="316" y1="20.59375" y2="20.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="298" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><strong>Packets</strong> are the PDU (Protocol Data Unit)</div></div></foreignObject></g><g data-depth="3" data-path="1.9.16" class="markmap-node" transform="translate(711, 33.09375)"><line stroke="#8c564b" stroke-width="1.375" x1="-1" x2="155" y1="20.6875" y2="20.6875"/><circle stroke-width="1.5" r="6" stroke="#8c564b" fill="var(--markmap-circle-open-bg)" cx="153" cy="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="137" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Layer 3 — Network</div></div></foreignObject></g><g data-depth="2" data-path="1.9" class="markmap-node" transform="translate(469, -77.28125)"><line stroke="#bcbd22" stroke-width="1.75" x1="-1" x2="164" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#bcbd22" fill="var(--markmap-circle-open-bg)" cx="162" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="146" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">🔍 Layer Deep-Dive</div></div></foreignObject></g><g data-depth="3" data-path="1.20.21" class="markmap-node" transform="translate(800, 90.46875)"><line stroke="#1f77b4" stroke-width="1.375" x1="-1" x2="464" y1="126.6875" y2="126.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="446" height="126"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="58,65">
+<thead data-lines="58,59">
+<tr data-lines="58,59">
+<th style="text-align:left">Scenario</th>
+<th style="text-align:center">Layer</th>
+</tr>
+</thead>
+<tbody data-lines="60,65">
+<tr data-lines="60,61">
+<td style="text-align:left">A router forwards a packet to another network</td>
+<td style="text-align:center"><strong>3 — Network</strong></td>
+</tr>
+<tr data-lines="61,62">
+<td style="text-align:left">A switch learns a MAC address</td>
+<td style="text-align:center"><strong>2 — Data Link</strong></td>
+</tr>
+<tr data-lines="62,63">
+<td style="text-align:left">You type <code>google.com</code> in your browser</td>
+<td style="text-align:center"><strong>7 — Application</strong></td>
+</tr>
+<tr data-lines="63,64">
+<td style="text-align:left">TCP ensures your download isn't corrupted</td>
+<td style="text-align:center"><strong>4 — Transport</strong></td>
+</tr>
+<tr data-lines="64,65">
+<td style="text-align:left">A cable connects your PC to a switch</td>
+<td style="text-align:center"><strong>1 — Physical</strong></td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.20" class="markmap-node" transform="translate(469, 143.46875)"><line stroke="#17becf" stroke-width="1.75" x1="-1" x2="253" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#17becf" fill="var(--markmap-circle-open-bg)" cx="251" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="235" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">🧪 Hands-On: Identify the Layer!</div></div></foreignObject></g><g data-depth="2" data-path="1.22" class="markmap-node" transform="translate(469, 228.84375)"><line stroke="#ff7f0e" stroke-width="1.75" x1="-1" x2="103" y1="20.875" y2="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="85" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">💡 Pro Tips</div></div></foreignObject></g><g data-depth="3" data-path="1.23.24" class="markmap-node" transform="translate(670, 227.84375)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="380" y1="60.6875" y2="60.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="362" height="60"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">1. 
+<p data-lines="78,79"><strong>At which layer does a switch primarily operate?</strong></p>
+<details>
+<summary>Click for answer</summary>
+Layer 2 — Data Link (uses MAC addresses)
+</details></div></div></foreignObject></g><g data-depth="3" data-path="1.23.25" class="markmap-node" transform="translate(670, 294.21875)"><line stroke="#9467bd" stroke-width="1.375" x1="-1" x2="280" y1="60.6875" y2="60.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="262" height="60"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">2. 
+<p data-lines="84,85"><strong>What is the PDU called at Layer 4?</strong></p>
+<details>
+<summary>Click for answer</summary>
+Segment (TCP) or Datagram (UDP)
+</details></div></div></foreignObject></g><g data-depth="3" data-path="1.23.26" class="markmap-node" transform="translate(670, 360.59375)"><line stroke="#8c564b" stroke-width="1.375" x1="-1" x2="269" y1="60.6875" y2="60.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="251" height="60"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">3. 
+<p data-lines="90,91"><strong>Which layer handles encryption?</strong></p>
+<details>
+<summary>Click for answer</summary>
+Layer 6 — Presentation (though modern encryption often happens at Layer 7 with TLS/SSL)
+</details></div></div></foreignObject></g><g data-depth="2" data-path="1.23" class="markmap-node" transform="translate(469, 314.21875)"><line stroke="#2ca02c" stroke-width="1.75" x1="-1" x2="123" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#2ca02c" fill="var(--markmap-circle-open-bg)" cx="121" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="105" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">🧠 Quick Quiz</div></div></foreignObject></g><g data-depth="3" data-path="1.27.28" class="markmap-node" transform="translate(673, 431.96875)"><line stroke="#7f7f7f" stroke-width="1.375" x1="-1" x2="309" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="291" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Professor Messer N10-009 — <a href="https://www.youtube.com/@professormesser">Video Link</a></div></div></foreignObject></g><g data-depth="3" data-path="1.27.29" class="markmap-node" transform="translate(673, 458.34375)"><line stroke="#bcbd22" stroke-width="1.375" x1="-1" x2="369" y1="20.6875" y2="20.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="351" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">CompTIA Network+ Objectives — <a href="https://www.comptia.org/certifications/network">Download PDF</a></div></div></foreignObject></g><g data-depth="2" data-path="1.27" class="markmap-node" transform="translate(469, 445.15625)"><line stroke="#e377c2" stroke-width="1.75" x1="-1" x2="126" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#e377c2" fill="var(--markmap-circle-open-bg)" cx="124" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="108" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">🔗 References</div></div></foreignObject></g><g data-depth="1" data-path="1" class="markmap-node" transform="translate(0, -10)"><line stroke="#1f77b4" stroke-width="2.5" x1="-1" x2="391" y1="21.25" y2="21.25"/><circle stroke-width="1.5" r="6" stroke="#1f77b4" fill="var(--markmap-circle-open-bg)" cx="389" cy="21.25"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="373" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">🌐 Day 1: The OSI Model — 7 Layers of Networking</div></div></foreignObject></g></g></svg>
