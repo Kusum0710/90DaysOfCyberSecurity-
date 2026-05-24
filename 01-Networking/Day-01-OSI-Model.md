@@ -515,9 +515,9 @@ SSL/TLS handles session management (L5), encryption/presentation (L6), and appli
 
 ---
 
-*📅 **Day 1 of 90** | 🗓️ Date: ___________ | ⏱️ Study Time: ___ hours*
+*📅 **Day 1 of 90** 
 
-*✍️ Notes by: [Your Name]*
+*✍️ Notes by: Kookiee*
 *🎓 Following: 90DaysOfCyberSecurity Study Plan*
 
 ---
