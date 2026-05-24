@@ -19,7 +19,7 @@ By the end of today, you will:
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  ⚠️  MYTH BUSTER                                         │
+│  ⚠️  MYTH BUSTER                                        │
 │  The OSI model is NOT a protocol suite like TCP/IP.     │
 │  It is a CONCEPTUAL FRAMEWORK that describes HOW        │
 │  data moves across networks — regardless of protocol.   │
